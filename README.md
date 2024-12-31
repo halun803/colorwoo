@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # gamedirs
  Game Dev tools
 # Colorwood 🎮
@@ -43,3 +44,6 @@ To get started with the development of Colorwood, follow these steps:
    ```bash
    npm run dev
    ```
+=======
+# colorwoo
+>>>>>>> a47c6ed7919d67aafd07890121548a85898ee0ea
